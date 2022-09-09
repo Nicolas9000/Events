@@ -1,0 +1,16 @@
+.imageEvent {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  object-position: 50% 50%;
+}
+
+.bodyDetail{
+    border: solid black;
+}
+
+.topDetail {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

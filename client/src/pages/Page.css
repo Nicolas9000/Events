@@ -1,0 +1,60 @@
+.menu {
+  border: solid orange;
+  position: sticky;
+  top: 5px;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 50px 60px;
+}
+
+.content {
+  border: solid red;
+  display: flex;
+}
+
+.lieu {
+  border: solid orange;
+}
+.LieuDropDown {
+  position: relative;
+  border: solid black;
+}
+
+.bodyHome {
+  margin-top: 10px;
+  margin-right: 10px;
+  border: solid green;
+}
+
+.event {
+  border: solid blue;
+  margin: 10px;
+}
+
+.imageHome {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  object-position: 50% 50%;
+}
+
+.titleH1 {
+  margin: 10px;
+}
+
+.InfoEvent {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.pointerHome{
+  cursor: pointer;
+}
+
+/* ----------^^---------- HOME  ------------^^------- */
+/* ----------|-----------       ------------|-------- */
